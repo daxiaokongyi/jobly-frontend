@@ -1,0 +1,7 @@
+.loadingSpinner {
+    margin: 200px auto 0 auto;
+    color: tomato;
+    font-size: 3rem;
+    font-weight: 3rem;
+    text-align: center;
+}

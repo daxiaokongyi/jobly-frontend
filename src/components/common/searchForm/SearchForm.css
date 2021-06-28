@@ -1,0 +1,9 @@
+.SearchForm input:focus {
+  box-shadow: none;
+  border-color: #ced4da;
+}
+
+.form-inline {
+  display: flex;
+  flex-direction: row;
+}
